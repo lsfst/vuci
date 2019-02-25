@@ -1,6 +1,6 @@
 # vuci
 
-This project is frpm https://github.com/zhaojh329/vuci.
+This project is from https://github.com/zhaojh329/vuci.
 
 ![](https://img.shields.io/badge/license-LGPL2-brightgreen.svg?style=plastic "License")
 
